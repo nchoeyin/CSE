@@ -1,7 +1,10 @@
 NYKAA
 MYNTRA
 LIMEROAD
+
+AMAZON            //Updated by Prajwal-Y-P
+BRAND-FACTORY     //Updated by Prajwal-Y-P
+
 AMAZON
 FLIPKART
 MEESHO
-
