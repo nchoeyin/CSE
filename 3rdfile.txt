@@ -8,3 +8,7 @@ BRAND-FACTORY     //Updated by Prajwal-Y-P
 AMAZON
 FLIPKART
 MEESHO
+
+AJIO
+MAX
+KHADIM'S
