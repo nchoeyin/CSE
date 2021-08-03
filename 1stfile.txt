@@ -3,3 +3,6 @@ zomato
 uber
 Dark Night
 Food Panda
+amazon 
+flipkart
+snapdeal//ngawangc
